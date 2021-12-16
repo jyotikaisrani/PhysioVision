@@ -9,7 +9,7 @@ What it does
 The basic idea is to create a website with physiotherapy exercises for patients with various needs. It is a complex mixture of healthcare needs and the modern technologies available to us.
 
 How we built it
-The wireframe of the website was built on Figma. Python scripts were used to execute functions as needed such as accessing mediapipe library or processing video data.
+The wireframe of the website was built on Canva. Python scripts were used to execute functions as needed such as accessing mediapipe library or processing video data.
 
 Challenges we ran into
 Humans are not born to be still, people shift around, get closer to the camera for a better look, and it is hard to keep our heads in one place. In order to accurately determine muscle movement from image data, we not only needed to normalize all our measurements, but we also needed to make design considerations that would incentivize the user to hold still and face into the camera for the entirety of the exercise. And we were unable to get accurate results for drooling face which is also a symptom of Bell's Palsy. For the hand training exercises, it was not easy to detect and train hands and we didn't have appropriate data. And to manage all of this with our exams going on was surely a challenge.
