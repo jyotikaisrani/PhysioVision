@@ -2,8 +2,8 @@
 
 
 
-Inspiration
-_Our inspiration was covid infected world where patients with needs for physiotherapy could not attend their prescripted sessions and hence their healthcare was infected _
+Inspiration-
+Our inspiration was covid infected world where patients with needs for physiotherapy could not attend their prescripted sessions and hence their healthcare was infected _
 
 What it does
 The basic idea is to create a website with physiotherapy exercises for patients with various needs. It is a complex mixture of healthcare needs and the modern technologies available to us.
